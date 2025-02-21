@@ -1,0 +1,17 @@
+*{
+    width: 100%;
+}
+main {
+    text-align: center;
+}
+article {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+img {
+   width: 50%; 
+   
+}
