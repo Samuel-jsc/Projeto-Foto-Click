@@ -23,7 +23,7 @@ img {
    
 }
 img:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
    
 }
 P{
@@ -46,7 +46,7 @@ h1{
 }
 a:hover{
     background-color: #6d9595;
-    transition-delay: .7s;
+    transition-delay: .4s;
    
     
     
